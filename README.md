@@ -19,3 +19,5 @@ Send a cURL request with the following data:
 * DELETE request
 
 `curl -X DELETE http://localhost:8080/api/profile/222/456`
+
+Semaphore test CI/CD run.
